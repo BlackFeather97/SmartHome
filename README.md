@@ -1,2 +1,2 @@
 # SmartHome
-Visite collaborative de maison et interaction en temps réel
+Visite collaborative de maison et interactions en temps réel
